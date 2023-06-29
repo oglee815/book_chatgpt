@@ -1,0 +1,1 @@
+- 인공지능의 편향과 챗봇의 일탈(https://oglee815.github.io/book/2023/06/29/book-ai-bias.html)
