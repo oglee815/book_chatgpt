@@ -14,7 +14,12 @@
 
 > Intelligent is not just pattern recogintion or function approximation. It is about modeling the world. - josh tennenbaum
 
+인공지능을 공부해보신 분들이라면 패턴 인식(Pattern Recognition)이나 함수 근사(function approximation)이라는 용어는 매우 익숙하실 것입니다. 
+Pattern recoginition은 말그대로 데이터에 존재하는 특정 패턴을 인지하는 것을 말합니다. 그리고 이러한 패턴은 여러 문제를 해결하는데 유용하게 사용 될 수 있습니다.
+예를 들어, 개와 고양이의 사진을 담은 데이터에는 개에게만 존재하는 패턴과 고양이에게만 존재하는 패턴이 있을 수 있습니다. 눈동자, 털의 길이, 코의 생김새 등이겠죠. 
+이러한 패턴을 인지했다면 사진을 통해 고양이와 개를 분류하는 문제를 풀때 유용하게 사용 될 수 있습니다.
 
+Function Approximation은 너무 복잡해서 해를 구하기 어려운 함수가 존재할 경우, 그 함수보다 해를 구하기 편하면서도 충분히 유사한 함수를 만드 뒤, 이 함수를 통해 해를 구하는 것을 말합니다. 주로 딥러닝에서 많이 쓰이는 방식입니다.
 
 
 
