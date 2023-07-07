@@ -10,6 +10,14 @@
 그 이유는 우리가 출발하는 출발점에서 부터 놓치고 시작하는 부분이 있기 때문입니다. 그것은 바로 우리가 '지능' 혹은 '생각'이라는 단어 조차 명확히 정의를 내리지 못했다는 것입니다.
 그렇기 때문에 '인공지능'이라는 단어가 더욱 추상적으로 느껴지고 곧장 이해가 안되는 이유 중 하나라고 생각합니다.
 
+그렇다면 '지능'은 무엇일까요? 단순히 '지적 사고를 하는 능력'이라고 말할 수도 있겠지만, 저는 다음의 정의를 좋아합니다.
+
+> Intelligent is not just pattern recogintion or function approximation. It is about modeling the world. - josh tennenbaum
+
+
+
+
+
 
 
 
